@@ -1,7 +1,7 @@
 # phpexamples: scroll down the memory lane
 
-paragraph 2
+paragraph 20
 
-paragraph 3
+paragraph 30
 
-paragraph 4
+paragraph 40
